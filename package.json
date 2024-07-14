@@ -1,0 +1,12 @@
+{
+  "name": "dusk",
+  "version": "1.0.0",
+  "description": "홈페이지 <br>\r https://github.com/Songehyun/bordgamehomepage.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
